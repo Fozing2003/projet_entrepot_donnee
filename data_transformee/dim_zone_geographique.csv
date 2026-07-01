@@ -1,0 +1,41 @@
+﻿id_zone,region,departement,arrondissement,ville,quartier,latitude,longitude
+1,Adamaoua,Vina,Ngaoundéré I,Ngaoundéré,Baladji,7.322,13.584
+2,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,7.338,13.589
+3,Centre,Mfoundi,Yaoundé I,Yaoundé,Bastos,3.884,11.514
+4,Centre,Mfoundi,Yaoundé VI,Yaoundé,Biyem-Assi,3.838,11.48
+5,Centre,Mfoundi,Yaoundé V,Yaoundé,Essos,3.879,11.54
+6,Centre,Mfoundi,Yaoundé II,Yaoundé,Mokolo,3.878,11.51
+7,Centre,Mfoundi,Yaoundé IV,Yaoundé,Mvan,3.803,11.53
+8,Centre,Mfoundi,Yaoundé III,Yaoundé,Ngoa-Ekellé,3.862,11.5
+9,Centre,Mfoundi,Yaoundé VII,Yaoundé,Nkolbisson,3.899,11.442
+10,Est,Kadey,Batouri,Batouri,Centre-ville,4.433,14.366
+11,Est,Lom-et-Djérem,Bertoua I,Bertoua,Centre-ville,4.577,13.684
+12,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.563,13.698
+13,Extrême-Nord,Diamaré,Maroua I,Maroua,Domayo,10.594,14.315
+14,Extrême-Nord,Diamaré,Maroua II,Maroua,Pitoaré,10.61,14.32
+15,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre-ville,10.742,13.803
+16,Littoral,Wouri,Douala I,Douala,Akwa,4.05,9.7
+17,Littoral,Wouri,Douala III,Douala,Bassa,4.061,9.781
+18,Littoral,Wouri,Douala IV,Douala,Bonabéri,4.079,9.671
+19,Littoral,Wouri,Douala V,Douala,Bonamoussadi,4.088,9.738
+20,Littoral,Wouri,Douala III,Douala,Japoma,4.014,9.8
+21,Littoral,Wouri,Douala V,Douala,Makepe,4.091,9.752
+22,Littoral,Wouri,Douala II,Douala,New Bell,4.036,9.714
+23,Littoral,Moungo,Nkongsamba I,Nkongsamba,Centre-ville,4.955,9.941
+24,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.335,13.42
+25,Nord,Bénoué,Garoua II,Garoua,Laindé,9.326,13.39
+26,Nord,Bénoué,Garoua I,Garoua,Poumpoumré,9.301,13.397
+27,Nord-Ouest,Mezam,Bamenda I,Bamenda,Commercial Avenue,5.959,10.146
+28,Nord-Ouest,Mezam,Bamenda II,Bamenda,Nkwen,5.985,10.17
+29,Ouest,Mifi,Bafoussam III,Bafoussam,Kamkop,5.455,10.395
+30,Ouest,Mifi,Bafoussam I,Bafoussam,Marché A,5.477,10.417
+31,Ouest,Mifi,Bafoussam II,Bafoussam,Tamdja,5.49,10.405
+32,Ouest,Menoua,Dschang,Dschang,Campus,5.448,10.067
+33,Ouest,Menoua,Dschang,Dschang,Foto,5.445,10.052
+34,Ouest,Noun,Foumban,Foumban,Centre-ville,5.729,10.899
+35,Ouest,Bamboutos,Mbouda,Mbouda,Centre-ville,5.625,10.255
+36,Sud,Mvila,Ebolowa I,Ebolowa,Nko'Ovos,2.916,11.15
+37,Sud,Océan,Kribi I,Kribi,Mboa Manga,2.937,9.907
+38,Sud-Ouest,Fako,Buea,Buea,Molyko,4.154,9.292
+39,Sud-Ouest,Fako,Limbe I,Limbe,Down Beach,4.018,9.214
+40,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.075,9.365

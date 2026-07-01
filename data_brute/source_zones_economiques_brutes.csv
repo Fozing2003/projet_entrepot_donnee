@@ -1,0 +1,41 @@
+﻿zone_source_id,region,departement,arrondissement,ville,quartier,latitude,longitude,population_estimee,revenu_moyen,taux_bancarisation,taux_croissance_economique,distance_agence_plus_proche_km
+ZONE-0001,Littoral,Wouri,Douala I,douala,Akwa,4.05,9.7,849981,254184,20.25,4.67,92.37
+ZONE-0002,Littoral,Wouri,Douala II,Douala,New Bell,4.036,9.714,941069,330122,41.53,4.05,91.11
+ZONE-0003,Littoral,Wouri,Douala III,Douala,Bassa,4.061,9.781,1196231,286065,13.02,6.5,72.46
+ZONE-0004,Littoral,Wouri,Douala V,Douala,Bonamousadi,4.088,9.738,1043561,63653,18.98,6.69,94.74
+ZONE-0005,Littoral,Wouri,Douala IV,douala,Bonabéri,4.079,9.671,423693,332569,11.72,3.5,30.92
+ZONE-0006,Littoral,Wouri,Douala V,Dla,Makepe,4.091,9.752,753647,109836,37.13,6.6,52.93
+ZONE-0007,Littoral,Wouri,Douala III,douala,Japoma,4.014,9.8,360637,185665,8.47,8.42,86.84
+ZONE-0008,Centre,Mfoundi,Yaoundé I,YDE,Bastos,3.884,11.514,385511,216721,37.53,1.98,78.92
+ZONE-0009,Centre,Mfoundi,Yaoundé IV,Yaoundé,Mvan,3.803,11.53,423802,158956,35.88,8.02,22.47
+ZONE-0010,Centre,Mfoundi,Yaoundé VI,YDE,Biyem-Assi,3.838,11.48,728540,158174,35.41,2.6,43.05
+ZONE-0011,Centre,Mfoundi,Yaoundé II,Yaounde,Mokolo,3.878,11.51,965864,164994,35.41,5.97,4.62
+ZONE-0012,Centre,Mfoundi,Yaoundé V,Yaoundé,Essos,3.879,11.54,1074428,71772,41.37,6.56,24.08
+ZONE-0013,Centre,Mfoundi,Yaoundé III,Yaoundé,Ngoa-Ekellé,3.862,11.5,1190146,302728,25.61,7.66,66.46
+ZONE-0014,Centre,Mfoundi,Yaoundé VII,yde,Nkolbisson,3.899,11.442,902297,154595,33.76,6.21,76.22
+ZONE-0015,Ouest,Mifi,Bafoussam I,Bafoussam,Marché A,5.477,10.417,228759,326837,12.01,3.86,45.48
+ZONE-0016,Ouest,Mifi,Bafoussam II,bafoussam,Tamdja,5.49,10.405,355214,263394,37.62,6.58,60.78
+ZONE-0017,Ouest,Mifi,Bafoussam III,bafoussam,Kamkop,5.455,10.395,407421,83445,30.16,6.2,10.42
+ZONE-0018,Ouest,Menoua,Dschang,dschang,Foto,5.445,10.052,432980,305186,23.58,5.29,84.68
+ZONE-0019,Ouest,Menoua,Dschang,DSC,Campus,5.448,10.067,348148,70818,23.24,4.2,86.93
+ZONE-0020,Ouest,Noun,Foumban,Foumban,Centre-ville,5.729,10.899,158797,145005,42.34,3.98,19.07
+ZONE-0021,Ouest,Bamboutos,Mbouda,mbouda,Centre,5.625,10.255,415221,156549,14.87,5.99,25.9
+ZONE-0022,Nord,Bénoué,Garoua I,Garoua,Poumpoumré,9.301,13.397,94288,301913,43.25,8.4,2.52
+ZONE-0023,Nord,Bénoué,Garoua II,garoua,Laindé,9.326,13.39,273780,314124,9.5,1.85,36.52
+ZONE-0024,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.335,13.42,439672,329137,42.48,5.09,50.05
+ZONE-0025,Extrême-Nord,Diamaré,Maroua I,maroua,Domayo,10.594,14.315,267566,261927,38.55,1.8,32.46
+ZONE-0026,Extrême-Nord,Diamaré,Maroua II,maroua,Pitoaré,10.61,14.32,102977,122307,43.89,2.16,56.14
+ZONE-0027,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,10.742,13.803,240920,137402,31.38,2.02,68.62
+ZONE-0028,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre-ville,4.577,13.684,37441,168188,39.1,2.21,22.3
+ZONE-0029,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.563,13.698,259076,246544,15.92,6.33,47.44
+ZONE-0030,Est,Kadey,Batouri,batouri,Centre,4.433,14.366,362331,266180,34.94,2.63,46.98
+ZONE-0031,Sud-Ouest,Fako,Buea,Buea,Molyko,4.154,9.292,206747,325976,44.26,8.12,88.81
+ZONE-0032,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,4.018,9.214,161630,256888,22.36,2.5,78.98
+ZONE-0033,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.075,9.365,108989,211430,34.27,5.78,29.63
+ZONE-0034,Nord-Ouest,Mezam,Bamenda I,bamenda,Commercial Avenue,5.959,10.146,93864,300399,24.36,6.22,36.47
+ZONE-0035,Nord-Ouest,Mezam,Bamenda II,bamenda,Nkwen,5.985,10.17,102290,105055,15.77,5.51,92.69
+ZONE-0036,Sud,Océan,Kribi I,kribi,Mboamanga,2.937,9.907,383320,341803,22.36,1.68,53.92
+ZONE-0037,Sud,Mvila,Ebolowa I,ebolowa,Nko'ovos,2.916,11.15,438768,298870,42.62,2.47,17.31
+ZONE-0038,Adamaoua,Vina,Ngaoundéré I,ngaoundéré,Baladji,7.322,13.584,31757,232233,36.85,2.66,17.12
+ZONE-0039,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,7.338,13.589,348026,148155,18.35,3.43,50.32
+ZONE-0040,Littoral,Moungo,Nkongsamba I,Nkongsamba,Centre,4.955,9.941,378974,342997,22.39,4.33,23.39

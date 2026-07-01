@@ -1,0 +1,141 @@
+﻿id_agence,code_agence,nom_agence,type_agence,date_ouverture,statut_agence
+1,AG00001,Agence Garoua Poumpoumré 001,Relais,2024-06-09,Active
+2,AG00002,Agence Kribi Mboa Manga 002,Bureau de terrain,2018-07-16,Active
+3,AG00003,Agence Garoua Djamboutou 003,Principale,2022-04-21,Active
+4,AG00004,Agence Tiko Likomba 004,Principale,2024-03-04,Active
+5,AG00005,Agence Douala Bonamoussadi 005,Relais,2015-02-21,Fermée
+6,AG00006,Agence Ngaoundéré Baladji 006,Bureau de terrain,2025-12-29,Active
+7,AG00007,Agence Bamenda Nkwen 007,Bureau de terrain,2022-11-22,Active
+8,AG00008,Agence Batouri Centre 008,Relais,2022-11-02,Active
+9,AG00009,Agence Maroua Domayo 009,Relais,2024-03-18,Active
+10,AG00010,Agence Dschang Foto 010,Relais,2025-06-18,Active
+11,AG00011,Agence Ebolowa Nko'ovos 011,Relais,2019-02-24,Active
+12,AG00012,Agence Yaoundé Bastos 012,Relais,2019-08-09,Suspendue
+13,AG00013,Agence Buea Molyko 013,Relais,2024-03-23,Active
+14,AG00014,Agence Yaoundé Biyem-Assi 014,Relais,2022-04-26,Active
+15,AG00015,Agence Tiko Likomba 015,Bureau de terrain,2025-10-23,Active
+16,AG00016,Agence Dschang Campus 016,Bureau de terrain,2018-10-13,Fermée
+17,AG00017,Agence Yaoundé Nkolbisson 017,Relais,2015-03-27,Active
+18,AG00018,Agence Dschang Campus 018,Relais,2022-10-06,Active
+19,AG00019,Agence Garoua Laindé 019,Principale,2017-06-26,Active
+20,AG00020,Agence Buea Molyko 020,Bureau de terrain,2023-08-22,Active
+21,AG00021,Agence Ngaoundéré Sabongari 021,Principale,2021-08-19,Active
+22,AG00022,Agence Garoua Poumpoumré 022,Principale,2017-04-12,Active
+23,AG00023,Agence Douala Japoma 023,Principale,2018-08-09,Active
+24,AG00024,Agence Ebolowa Nko'ovos 024,Relais,2025-10-19,Active
+25,AG00025,Agence Garoua Laindé 025,Bureau de terrain,2018-09-30,Active
+26,AG00026,Agence Kribi Mboa Manga 026,Relais,2020-12-13,Active
+27,AG00027,Agence Garoua Djamboutou 027,Relais,2018-05-17,Active
+28,AG00028,Agence Ngaoundéré Baladji 028,Bureau de terrain,2016-11-03,Fermée
+29,AG00029,Agence Buea Molyko 029,Relais,2016-08-20,Active
+30,AG00030,Agence Garoua Djamboutou 030,Bureau de terrain,2024-06-18,Suspendue
+31,AG00031,Agence Dschang Campus 031,Relais,2024-12-25,Fermée
+32,AG00032,Agence Yaoundé Ngoa-Ekellé 032,Relais,2016-07-04,Active
+33,AG00033,Agence Kribi Mboa Manga 033,Relais,2020-05-30,Active
+34,AG00034,Agence Yaoundé Ngoa-Ekellé 034,Relais,2021-10-11,Active
+35,AG00035,Agence Garoua Djamboutou 035,Relais,2023-01-06,Active
+36,AG00036,Agence Mokolo Centre 036,Relais,2018-08-07,Active
+37,AG00037,Agence Bertoua Nkolbikon 037,Relais,2018-12-15,Active
+38,AG00038,Agence Tiko Likomba 038,Bureau de terrain,2020-08-17,Active
+39,AG00039,Agence Douala New Bell 039,Bureau de terrain,2015-01-14,Active
+40,AG00040,Agence Douala Japoma 040,Relais,2025-09-22,Active
+41,AG00041,Agence Douala Bonamoussadi 041,Relais,2026-01-12,Active
+42,AG00042,Agence Yaoundé Essos 042,Bureau de terrain,2025-03-28,Active
+43,AG00043,Agence Douala New Bell 043,Bureau de terrain,2021-09-07,Active
+44,AG00044,Agence Yaoundé Ngoa-Ekellé 044,Bureau de terrain,2024-05-03,Active
+45,AG00045,Agence Mokolo Centre 045,Relais,2025-02-28,Active
+46,AG00046,Agence Ngaoundéré Baladji 046,Relais,2024-01-13,Active
+47,AG00047,Agence Dschang Foto 047,Principale,2017-12-22,Active
+48,AG00048,Agence Garoua Poumpoumré 048,Relais,2023-10-28,Active
+49,AG00049,Agence Douala New Bell 049,Bureau de terrain,2025-01-12,Active
+50,AG00050,Agence Yaoundé Ngoa-Ekellé 050,Bureau de terrain,2024-06-21,Active
+51,AG00051,Agence Yaoundé Ngoa-Ekellé 051,Relais,2024-09-13,Active
+52,AG00052,Agence Limbe Down Beach 052,Bureau de terrain,2017-07-23,Active
+53,AG00053,Agence Yaoundé Biyem-Assi 053,Relais,2024-10-09,Active
+54,AG00054,Agence Douala Bassa 054,Principale,2017-06-21,Active
+55,AG00055,Agence Bertoua Nkolbikon 055,Relais,2025-06-02,Active
+56,AG00056,Agence Douala Bonabéri 056,Relais,2020-05-12,Active
+57,AG00057,Agence Bertoua Centre-ville 057,Principale,2019-04-21,Active
+58,AG00058,Agence Douala Bonabéri 058,Bureau de terrain,2024-05-15,Active
+59,AG00059,Agence Foumban Centre-ville 059,Principale,2020-07-30,Active
+60,AG00060,Agence Yaoundé Bastos 060,Relais,2015-03-13,Active
+61,AG00061,Agence Mbouda Centre 061,Principale,2016-11-19,Active
+62,AG00062,Agence Ngaoundéré Sabongari 062,Bureau de terrain,2019-11-20,Fermée
+63,AG00063,Agence Bertoua Nkolbikon 063,Relais,2017-11-16,Suspendue
+64,AG00064,Agence Yaoundé Biyem-Assi 064,Relais,2025-01-01,Active
+65,AG00065,Agence Batouri Centre 065,Principale,2017-04-29,Active
+66,AG00066,Agence Bertoua Nkolbikon 066,Relais,2024-10-17,Active
+67,AG00067,Agence Bertoua Nkolbikon 067,Principale,2017-05-29,Active
+68,AG00068,Agence Douala Makepe 068,Relais,2021-01-17,Active
+69,AG00069,Agence Bafoussam Kamkop 069,Bureau de terrain,2023-05-19,Active
+70,AG00070,Agence Bafoussam Kamkop 070,Relais,2024-06-11,Active
+71,AG00071,Agence Ngaoundéré Baladji 071,Principale,2020-04-26,Active
+72,AG00072,Agence Limbe Down Beach 072,Bureau de terrain,2024-03-31,Active
+73,AG00073,Agence Douala Bonabéri 073,Relais,2022-02-18,Suspendue
+74,AG00074,Agence Douala Bonabéri 074,Relais,2020-01-05,Active
+75,AG00075,Agence Limbe Down Beach 075,Principale,2021-05-10,Suspendue
+76,AG00076,Agence Ngaoundéré Baladji 076,Principale,2022-02-02,Active
+77,AG00077,Agence Douala Akwa 077,Bureau de terrain,2019-01-27,Active
+78,AG00078,Agence Douala Makepe 078,Principale,2017-12-03,Active
+79,AG00079,Agence Dschang Foto 079,Principale,2025-07-12,Active
+80,AG00080,Agence Yaoundé Bastos 080,Bureau de terrain,2015-03-28,Active
+81,AG00081,Agence Mbouda Centre 081,Relais,2025-11-30,Active
+82,AG00082,Agence Nkongsamba Centre-ville 082,Principale,2021-08-25,Active
+83,AG00083,Agence Mbouda Centre 083,Relais,2020-08-18,Active
+84,AG00084,Agence Buea Molyko 084,Relais,2023-11-26,Suspendue
+85,AG00085,Agence Yaoundé Mokolo 085,Relais,2021-05-03,Active
+86,AG00086,Agence Buea Molyko 086,Bureau de terrain,2018-08-02,Active
+87,AG00087,Agence Foumban Centre-ville 087,Relais,2021-10-27,Active
+88,AG00088,Agence Buea Molyko 088,Bureau de terrain,2020-11-23,Active
+89,AG00089,Agence Garoua Djamboutou 089,Relais,2023-08-03,Active
+90,AG00090,Agence Ngaoundéré Sabongari 090,Bureau de terrain,2021-02-24,Active
+91,AG00091,Agence Douala Bassa 091,Relais,2022-09-15,Active
+92,AG00092,Agence Douala Akwa 092,Relais,2025-10-12,Suspendue
+93,AG00093,Agence Batouri Centre 093,Relais,2021-10-11,Active
+94,AG00094,Agence Bamenda Commercial Avenue 094,Relais,2017-04-26,Active
+95,AG00095,Agence Yaoundé Bastos 095,Bureau de terrain,2025-11-25,Fermée
+96,AG00096,Agence Yaoundé Mvan 096,Principale,2022-07-22,Active
+97,AG00097,Agence Bertoua Centre-ville 097,Relais,2017-11-10,Active
+98,AG00098,Agence Ngaoundéré Baladji 098,Bureau de terrain,2020-05-25,Active
+99,AG00099,Agence Douala Bonamoussadi 099,Relais,2019-09-25,Active
+100,AG00100,Agence Maroua Pitoaré 100,Relais,2021-05-06,Active
+101,AG00101,Agence Bafoussam Tamdja 101,Principale,2017-01-21,Active
+102,AG00102,Agence Yaoundé Ngoa-Ekellé 102,Bureau de terrain,2026-02-16,Active
+103,AG00103,Agence Bafoussam Tamdja 103,Relais,2017-10-10,Active
+104,AG00104,Agence Batouri Centre 104,Principale,2016-07-13,Active
+105,AG00105,Agence Douala Bonabéri 105,Principale,2018-04-05,Active
+106,AG00106,Agence Yaoundé Ngoa-Ekellé 106,Bureau de terrain,2020-09-28,Active
+107,AG00107,Agence Limbe Down Beach 107,Relais,2023-06-19,Active
+108,AG00108,Agence Bertoua Centre-ville 108,Bureau de terrain,2015-05-26,Active
+109,AG00109,Agence Douala Bassa 109,Principale,2015-04-28,Active
+110,AG00110,Agence Douala Bassa 110,Bureau de terrain,2025-11-04,Active
+111,AG00111,Agence Yaoundé Essos 111,Relais,2019-10-12,Active
+112,AG00112,Agence Douala Bassa 112,Relais,2017-03-17,Active
+113,AG00113,Agence Bamenda Commercial Avenue 113,Bureau de terrain,2024-10-07,Active
+114,AG00114,Agence Kribi Mboa Manga 114,Bureau de terrain,2015-10-06,Active
+115,AG00115,Agence Bertoua Centre-ville 115,Bureau de terrain,2018-12-07,Active
+116,AG00116,Agence Yaoundé Bastos 116,Relais,2022-03-11,Active
+117,AG00117,Agence Douala New Bell 117,Principale,2026-02-07,Active
+118,AG00118,Agence Bafoussam Tamdja 118,Bureau de terrain,2024-05-13,Active
+119,AG00119,Agence Douala Bonabéri 119,Relais,2019-01-18,Fermée
+120,AG00120,Agence Garoua Poumpoumré 120,Principale,2016-08-25,Active
+121,AG00121,Agence Douala Makepe 121,Bureau de terrain,2023-07-27,Active
+122,AG00122,Agence Garoua Laindé 122,Principale,2020-12-09,Active
+123,AG00123,Agence Garoua Laindé 123,Relais,2019-10-01,Active
+124,AG00124,Agence Mokolo Centre 124,Bureau de terrain,2015-09-11,Suspendue
+125,AG00125,Agence Douala Bonabéri 125,Bureau de terrain,2022-08-19,Active
+126,AG00126,Agence Ngaoundéré Sabongari 126,Relais,2016-11-07,Active
+127,AG00127,Agence Nkongsamba Centre-ville 127,Relais,2025-08-01,Active
+128,AG00128,Agence Bamenda Nkwen 128,Bureau de terrain,2020-06-20,Active
+129,AG00129,Agence Tiko Likomba 129,Bureau de terrain,2016-08-04,Active
+130,AG00130,Agence Yaoundé Mokolo 130,Bureau de terrain,2015-10-10,Active
+131,AG00131,Agence Yaoundé Essos 131,Relais,2018-10-25,Active
+132,AG00132,Agence Bafoussam Marché A 132,Bureau de terrain,2025-09-17,Active
+133,AG00133,Agence Mokolo Centre 133,Relais,2018-02-16,Active
+134,AG00134,Agence Mokolo Centre 134,Bureau de terrain,2015-06-29,Active
+135,AG00135,Agence Douala Bonamoussadi 135,Bureau de terrain,2023-04-14,Suspendue
+136,AG00136,Agence Maroua Domayo 136,Relais,2022-10-21,Active
+137,AG00137,Agence Garoua Djamboutou 137,Principale,2025-04-16,Active
+138,AG00138,Agence Ebolowa Nko'ovos 138,Relais,2022-04-13,Active
+139,AG00139,Agence Yaoundé Nkolbisson 139,Relais,2017-08-25,Active
+140,AG00140,Agence Buea Molyko 140,Relais,2025-01-08,Active

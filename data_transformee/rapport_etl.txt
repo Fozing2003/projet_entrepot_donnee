@@ -1,0 +1,16 @@
+===== RAPPORT ETL DATA WAREHOUSE BANCAIRE =====
+
+1) EXTRACTION
+Zones brutes : 40
+Agences brutes : 140
+Clients bruts : 6280
+Comptes bruts : 9000
+Institutions concurrentes brutes : 100
+Transactions brutes : 150000
+
+2) TRANSFORMATION
+Transactions valides avant jointures : 90095
+Transactions conservées après jointures : 90095
+
+3) CHARGEMENT AUTOMATIQUE EN BASE REUSSI
+Fact_Transactions finale : 90095 lignes

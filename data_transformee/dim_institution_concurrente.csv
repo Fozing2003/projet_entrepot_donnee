@@ -1,0 +1,101 @@
+﻿id_concurrent,nom_institution,type_institution,categorie_institution
+1,Afriland First Bank,Banque commerciale,Concurrent Direct
+2,BICEC,Banque commerciale,Concurrent Direct
+3,Société Générale Cameroun,Banque commerciale,Concurrent Direct
+4,CBC,Banque commerciale,Concurrent Direct
+5,Ecobank Cameroun,Banque commerciale,Concurrent Direct
+6,UBA Cameroun,Banque commerciale,Concurrent Direct
+7,CCA Bank,Banque commerciale,Concurrent Direct
+8,SCB Cameroun,Banque commerciale,Concurrent Direct
+9,Banque Atlantique Cameroun,Banque commerciale,Concurrent Direct
+10,Orange Money,Télécom,Concurrent Indirect
+11,MTN MoMo,Télécom,Concurrent Indirect
+12,Express Union Finance,Microfinance,Concurrent Direct
+13,ACEP Cameroun,Microfinance,Concurrent Direct
+14,Advans Cameroun,Microfinance,Concurrent Direct
+15,La Régionale Bank,Banque commerciale,Concurrent Direct
+16,Proximité Kribi Mboa,Microfinance,Concurrent Direct
+17,Espoir Dschang Finance,Microfinance,Concurrent Direct
+18,Crédit Limbe Services,Transfert d'argent,Concurrent Indirect
+19,Épargne Maroua Crédit,Microfinance,Concurrent Direct
+20,Tontine Tiko Money,Microfinance,Concurrent Direct
+21,Réseau Kribi Mboa,Transfert d'argent,Concurrent Indirect
+22,Solidarité Nkongsamba Mboa,Microfinance,Concurrent Direct
+23,Mutuelle Maroua Express,Microfinance,Concurrent Direct
+24,Espoir Garoua Mboa,Microfinance,Concurrent Direct
+25,Émergence Ngaoundéré Capital,Microfinance,Concurrent Direct
+26,Avenir Dschang Microfinance,Télécom,Concurrent Indirect
+27,Union Foumban Finance,Microfinance,Concurrent Direct
+28,Alliance Tiko Finance,Microfinance,Concurrent Direct
+29,Réseau Batouri Épargne,Microfinance,Concurrent Direct
+30,Espoir Ebolowa Crédit,Microfinance,Concurrent Direct
+31,Réseau Limbe Microfinance,Microfinance,Concurrent Direct
+32,Alliance Douala Microfinance,Banque commerciale,Concurrent Direct
+33,Épargne Mokolo Express,Microfinance,Concurrent Direct
+34,Union Batouri Services,Microfinance,Concurrent Direct
+35,Tontine Douala Services,Banque commerciale,Concurrent Direct
+36,Avenir Bertoua Crédit,Microfinance,Concurrent Direct
+37,Tontine Yaoundé Capital,Banque commerciale,Concurrent Direct
+38,Mutuelle Yaoundé Microfinance,Microfinance,Concurrent Direct
+39,Union Bertoua Épargne,Transfert d'argent,Concurrent Indirect
+40,Tontine Mokolo Services,Microfinance,Concurrent Direct
+41,Solidarité Tiko Crédit,Microfinance,Concurrent Direct
+42,Émergence Mbouda Services,Transfert d'argent,Concurrent Indirect
+43,Épargne Dschang Épargne,Microfinance,Concurrent Direct
+44,Développement Foumban Money,Banque commerciale,Concurrent Direct
+45,Avenir Maroua Money,Microfinance,Concurrent Direct
+46,Alliance Limbe Épargne,Microfinance,Concurrent Direct
+47,Union Ebolowa Finance,Microfinance,Concurrent Direct
+48,Mutuelle Mokolo Crédit,Banque commerciale,Concurrent Direct
+49,Avenir Mbouda Services,Microfinance,Concurrent Direct
+50,Crédit Bafoussam Épargne,Microfinance,Concurrent Direct
+51,Crédit Bertoua Mboa,Microfinance,Concurrent Direct
+52,Mutuelle Maroua Microfinance,Microfinance,Concurrent Direct
+53,Proximité Ebolowa Express,Banque commerciale,Concurrent Direct
+54,Tontine Mokolo Épargne,Microfinance,Concurrent Direct
+55,Confiance Batouri Crédit,Banque commerciale,Concurrent Direct
+56,Confiance Mbouda Microfinance,Microfinance,Concurrent Direct
+57,Épargne Buea Capital,Microfinance,Concurrent Direct
+58,Tontine Douala Money,Transfert d'argent,Concurrent Indirect
+59,Union Douala Services,Microfinance,Concurrent Direct
+60,Émergence Foumban Crédit,Télécom,Concurrent Indirect
+61,Alliance Bertoua Express,Microfinance,Concurrent Direct
+62,Réseau Bertoua Express,Microfinance,Concurrent Direct
+63,Mutuelle Nkongsamba Services,Banque commerciale,Concurrent Direct
+64,Mutuelle Douala Épargne,Microfinance,Concurrent Direct
+65,Confiance Tiko Crédit,Télécom,Concurrent Indirect
+66,Crédit Mbouda Épargne,Transfert d'argent,Concurrent Indirect
+67,Tontine Tiko Services,Télécom,Concurrent Indirect
+68,Union Bafoussam Épargne,Banque commerciale,Concurrent Direct
+69,Avenir Batouri Express,Microfinance,Concurrent Direct
+70,Espoir Garoua Finance,Microfinance,Concurrent Direct
+71,Confiance Buea Services,Microfinance,Concurrent Direct
+72,Épargne Ebolowa Finance,Télécom,Concurrent Indirect
+73,Avenir Batouri Microfinance,Banque commerciale,Concurrent Direct
+74,Espoir Mbouda Crédit,Microfinance,Concurrent Direct
+75,Tontine Ebolowa Services,Microfinance,Concurrent Direct
+76,Mutuelle Dschang Crédit,Banque commerciale,Concurrent Direct
+77,Union Batouri Microfinance,Microfinance,Concurrent Direct
+78,Avenir Buea Microfinance,Microfinance,Concurrent Direct
+79,Avenir Yaoundé Crédit,Télécom,Concurrent Indirect
+80,Crédit Garoua Épargne,Microfinance,Concurrent Direct
+81,Réseau Dschang Capital,Microfinance,Concurrent Direct
+82,Épargne Batouri Express,Microfinance,Concurrent Direct
+83,Avenir Ebolowa Services,Microfinance,Concurrent Direct
+84,Épargne Buea Crédit,Microfinance,Concurrent Direct
+85,Épargne Mbouda Capital,Télécom,Concurrent Indirect
+86,Émergence Mokolo Crédit,Transfert d'argent,Concurrent Indirect
+87,Émergence Maroua Épargne,Banque commerciale,Concurrent Direct
+88,Émergence Nkongsamba Microfinance,Microfinance,Concurrent Direct
+89,Crédit Limbe Microfinance,Banque commerciale,Concurrent Direct
+90,Développement Batouri Money,Banque commerciale,Concurrent Direct
+91,Alliance Buea Capital,Télécom,Concurrent Indirect
+92,Solidarité Bertoua Capital,Microfinance,Concurrent Direct
+93,Émergence Bertoua Épargne,Télécom,Concurrent Indirect
+94,Tontine Nkongsamba Money,Transfert d'argent,Concurrent Indirect
+95,Réseau Limbe Capital,Microfinance,Concurrent Direct
+96,Crédit Mokolo Mboa,Microfinance,Concurrent Direct
+97,Développement Tiko Express,Microfinance,Concurrent Direct
+98,Alliance Yaoundé Express,Microfinance,Concurrent Direct
+99,Proximité Bertoua Capital,Microfinance,Concurrent Direct
+100,Avenir Bafoussam Crédit,Banque commerciale,Concurrent Direct

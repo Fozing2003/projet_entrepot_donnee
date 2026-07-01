@@ -1,0 +1,101 @@
+﻿code_concurrent,nom_institution,type_institution,categorie_institution,region,departement,arrondissement,ville,quartier,nombre_agences_zone,distance_moyenne_km
+CONC-0001,Afriland First Bank,Banque commerciale,Concurrent Direct,Littoral,Wouri,Douala V,douala,Bonamoussadi,1,14.37
+CONC-0002,BICEC,Banque commerciale,Concurrent Direct,Sud,Mvila,Ebolowa I,Ebolowa,Nko'ovos,8,3.54
+CONC-0003,Société Générale Cameroun,Banque commerciale,Concurrent Direct,Ouest,Noun,Foumban,foumban,Centre Ville,6,21.92
+CONC-0004,CBC,Banque commerciale,Concurrent Direct,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre Ville,8,7.91
+CONC-0005,Ecobank Cameroun,Banque commerciale,Concurrent Direct,Extrême-Nord,Diamaré,Maroua I,Maroua,Domayo,5,1.49
+CONC-0006,UBA Cameroun,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,YDE,Biyem assi,8,15.61
+CONC-0007,CCA Bank,Banque commerciale,Concurrent Direct,Nord,Bénoué,Garoua II,Garoua,Laindé,4,13.85
+CONC-0008,SCB Cameroun,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé I,yde,Bastos,1,15.27
+CONC-0009,Banque Atlantique Cameroun,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé II,YDE,Mokolo,8,22.51
+CONC-0010,Orange Money,Télécom,Concurrent Indirect,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,2,17.45
+CONC-0011,MTN MoMo,Télécom,Concurrent Indirect,Centre,Mfoundi,Yaoundé VII,yde,Nkolbisson,3,9.31
+CONC-0012,Express Union Finance,Microfinance,Concurrent Direct,Littoral,Wouri,Douala V,Dla,Makepe,0,8.4
+CONC-0013,ACEP Cameroun,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Tiko,Tiko,Likomba,7,20.49
+CONC-0014,Advans Cameroun,Microfinance,Concurrent Direct,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,4,18.87
+CONC-0015,La Régionale Bank,Banque commerciale,Concurrent Direct,Ouest,Noun,Foumban,foumban,Centre,8,2.7
+CONC-0016,Proximité Kribi Mboa,Microfinance,Concurrent Direct,Adamaoua,Vina,Ngaoundéré I,ngaoundéré,Baladji,2,11.1
+CONC-0017,Espoir Dschang Finance,Microfinance,Concurrent Direct,Nord-Ouest,Mezam,Bamenda I,bamenda,Commercial Avenue,8,20.98
+CONC-0018,Crédit Limbe Services,Transfert d'argent,Concurrent Indirect,Centre,Mfoundi,Yaoundé VII,Yaoundé,Nkolbisson,4,2.09
+CONC-0019,Épargne Maroua Crédit,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,6,20.23
+CONC-0020,Tontine Tiko Money,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Buea,buea,Molyko,2,6.18
+CONC-0021,Réseau Kribi Mboa,Transfert d'argent,Concurrent Indirect,Est,Kadey,Batouri,Batouri,Centre,2,6.31
+CONC-0022,Solidarité Nkongsamba Mboa,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé III,Yaounde,Ngoa-Ekellé,0,13.53
+CONC-0023,Mutuelle Maroua Express,Microfinance,Concurrent Direct,Littoral,Moungo,Nkongsamba I,Nkongsamba,Centre Ville,3,19.55
+CONC-0024,Espoir Garoua Mboa,Microfinance,Concurrent Direct,Nord-Ouest,Mezam,Bamenda II,Bamenda,Nkwen,0,2.01
+CONC-0025,Émergence Ngaoundéré Capital,Microfinance,Concurrent Direct,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,3,3.56
+CONC-0026,Avenir Dschang Microfinance,Télécom,Concurrent Indirect,Centre,Mfoundi,Yaoundé II,Yaoundé,Mokolo,7,18.59
+CONC-0027,Union Foumban Finance,Microfinance,Concurrent Direct,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,2,3.03
+CONC-0028,Alliance Tiko Finance,Microfinance,Concurrent Direct,Littoral,Moungo,Nkongsamba I,nkongsamba,Centre-ville,2,22.46
+CONC-0029,Réseau Batouri Épargne,Microfinance,Concurrent Direct,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,2,19.65
+CONC-0030,Espoir Ebolowa Crédit,Microfinance,Concurrent Direct,Ouest,Mifi,Bafoussam II,BAF,Tamdja,0,0.51
+CONC-0031,Réseau Limbe Microfinance,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Tiko,Tiko,Likomba,5,16.19
+CONC-0032,Alliance Douala Microfinance,Banque commerciale,Concurrent Direct,Ouest,Mifi,Bafoussam II,Bafoussam,Tamdja,0,23.07
+CONC-0033,Épargne Mokolo Express,Microfinance,Concurrent Direct,Ouest,Mifi,Bafoussam I,BAF,Marché A,2,0.69
+CONC-0034,Union Batouri Services,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Limbe I,Limbe,Down Beach,2,11.33
+CONC-0035,Tontine Douala Services,Banque commerciale,Concurrent Direct,Extrême-Nord,Diamaré,Maroua II,maroua,Pitoaré,8,19.57
+CONC-0036,Avenir Bertoua Crédit,Microfinance,Concurrent Direct,Sud,Mvila,Ebolowa I,ebolowa,Nko'ovos,4,23.23
+CONC-0037,Tontine Yaoundé Capital,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,YDE,Biyem-Assi,7,16.93
+CONC-0038,Mutuelle Yaoundé Microfinance,Microfinance,Concurrent Direct,Extrême-Nord,Mayo-Tsanaga,Mokolo,mokolo,Centre,3,11.7
+CONC-0039,Union Bertoua Épargne,Transfert d'argent,Concurrent Indirect,Centre,Mfoundi,Yaoundé III,Yaoundé,Ngoa-Ekellé,0,5.02
+CONC-0040,Tontine Mokolo Services,Microfinance,Concurrent Direct,Nord-Ouest,Mezam,Bamenda I,Bamenda,Commercial Avenue,0,3.47
+CONC-0041,Solidarité Tiko Crédit,Microfinance,Concurrent Direct,Ouest,Menoua,Dschang,DSC,Foto,2,17.64
+CONC-0042,Émergence Mbouda Services,Transfert d'argent,Concurrent Indirect,Sud,Océan,Kribi I,Kribi,Mboa Manga,1,16.24
+CONC-0043,Épargne Dschang Épargne,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé VII,Yaounde,Nkolbisson,1,23.43
+CONC-0044,Développement Foumban Money,Banque commerciale,Concurrent Direct,Littoral,Wouri,Douala II,Dla,New Bell,0,14.58
+CONC-0045,Avenir Maroua Money,Microfinance,Concurrent Direct,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,3,21.12
+CONC-0046,Alliance Limbe Épargne,Microfinance,Concurrent Direct,Adamaoua,Vina,Ngaoundéré II,ngaoundéré,Sabongari,8,21.63
+CONC-0047,Union Ebolowa Finance,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé IV,YDE,Mvan,3,11.8
+CONC-0048,Mutuelle Mokolo Crédit,Banque commerciale,Concurrent Direct,Ouest,Mifi,Bafoussam III,bafoussam,Kamkop,4,4.63
+CONC-0049,Avenir Mbouda Services,Microfinance,Concurrent Direct,Littoral,Wouri,Douala III,douala,Japoma,5,23.09
+CONC-0050,Crédit Bafoussam Épargne,Microfinance,Concurrent Direct,Nord,Bénoué,Garoua I,garoua,Poumpoumré,0,16.66
+CONC-0051,Crédit Bertoua Mboa,Microfinance,Concurrent Direct,Ouest,Bamboutos,Mbouda,mbouda,Centre,1,19.46
+CONC-0052,Mutuelle Maroua Microfinance,Microfinance,Concurrent Direct,Ouest,Mifi,Bafoussam I,Bafoussam,Marché A,4,15.13
+CONC-0053,Proximité Ebolowa Express,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,Yaounde,Biyem assi,2,15.21
+CONC-0054,Tontine Mokolo Épargne,Microfinance,Concurrent Direct,Littoral,Wouri,Douala I,douala,Akwa,4,21.98
+CONC-0055,Confiance Batouri Crédit,Banque commerciale,Concurrent Direct,Ouest,Bamboutos,Mbouda,mbouda,Centre,6,16.39
+CONC-0056,Confiance Mbouda Microfinance,Microfinance,Concurrent Direct,Ouest,Mifi,Bafoussam II,BAF,Tamdja,0,9.18
+CONC-0057,Épargne Buea Capital,Microfinance,Concurrent Direct,Littoral,Wouri,Douala IV,Douala,Bonabéri,6,4.74
+CONC-0058,Tontine Douala Money,Transfert d'argent,Concurrent Indirect,Ouest,Noun,Foumban,Foumban,Centre,7,1.17
+CONC-0059,Union Douala Services,Microfinance,Concurrent Direct,Ouest,Menoua,Dschang,Dschang,Campus,1,16.05
+CONC-0060,Émergence Foumban Crédit,Télécom,Concurrent Indirect,Ouest,Noun,Foumban,foumban,Centre Ville,6,14.79
+CONC-0061,Alliance Bertoua Express,Microfinance,Concurrent Direct,Nord-Ouest,Mezam,Bamenda I,Bamenda,Commercial Avenue,4,4.64
+CONC-0062,Réseau Bertoua Express,Microfinance,Concurrent Direct,Ouest,Bamboutos,Mbouda,Mbouda,Centre,6,16.91
+CONC-0063,Mutuelle Nkongsamba Services,Banque commerciale,Concurrent Direct,Ouest,Menoua,Dschang,DSC,Foto,6,15.08
+CONC-0064,Mutuelle Douala Épargne,Microfinance,Concurrent Direct,Sud,Océan,Kribi I,kribi,Mboamanga,1,7.97
+CONC-0065,Confiance Tiko Crédit,Télécom,Concurrent Indirect,Centre,Mfoundi,Yaoundé IV,Yaounde,Mvan,4,14.79
+CONC-0066,Crédit Mbouda Épargne,Transfert d'argent,Concurrent Indirect,Ouest,Mifi,Bafoussam I,Bafoussam,Marché A,2,4.03
+CONC-0067,Tontine Tiko Services,Télécom,Concurrent Indirect,Nord-Ouest,Mezam,Bamenda II,bamenda,Nkwen,7,9.32
+CONC-0068,Union Bafoussam Épargne,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé V,yde,Essos,7,5.24
+CONC-0069,Avenir Batouri Express,Microfinance,Concurrent Direct,Extrême-Nord,Diamaré,Maroua II,maroua,Pitoaré,0,19.05
+CONC-0070,Espoir Garoua Finance,Microfinance,Concurrent Direct,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre Ville,6,23.0
+CONC-0071,Confiance Buea Services,Microfinance,Concurrent Direct,Sud,Océan,Kribi I,Kribi,Mboamanga,1,18.29
+CONC-0072,Épargne Ebolowa Finance,Télécom,Concurrent Indirect,Est,Lom-et-Djérem,Bertoua I,Bertoua,Centre Ville,2,17.28
+CONC-0073,Avenir Batouri Microfinance,Banque commerciale,Concurrent Direct,Ouest,Noun,Foumban,Foumban,Centre,6,24.78
+CONC-0074,Espoir Mbouda Crédit,Microfinance,Concurrent Direct,Littoral,Wouri,Douala IV,douala,Bonabéri,2,5.28
+CONC-0075,Tontine Ebolowa Services,Microfinance,Concurrent Direct,Extrême-Nord,Mayo-Tsanaga,Mokolo,mokolo,Centre,5,23.93
+CONC-0076,Mutuelle Dschang Crédit,Banque commerciale,Concurrent Direct,Est,Kadey,Batouri,Batouri,Centre,6,4.0
+CONC-0077,Union Batouri Microfinance,Microfinance,Concurrent Direct,Ouest,Mifi,Bafoussam III,bafoussam,Kamkop,5,14.05
+CONC-0078,Avenir Buea Microfinance,Microfinance,Concurrent Direct,Littoral,Wouri,Douala IV,douala,Bonabéri,4,12.92
+CONC-0079,Avenir Yaoundé Crédit,Télécom,Concurrent Indirect,Extrême-Nord,Diamaré,Maroua II,Maroua,Pitoaré,7,4.99
+CONC-0080,Crédit Garoua Épargne,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé IV,yde,Mvan,1,6.67
+CONC-0081,Réseau Dschang Capital,Microfinance,Concurrent Direct,Sud,Mvila,Ebolowa I,Ebolowa,Nko'ovos,4,3.54
+CONC-0082,Épargne Batouri Express,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,7,0.93
+CONC-0083,Avenir Ebolowa Services,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,YDE,Biyem-Assi,5,16.81
+CONC-0084,Épargne Buea Crédit,Microfinance,Concurrent Direct,Sud-Ouest,Fako,Tiko,Tiko,Likomba,7,19.39
+CONC-0085,Épargne Mbouda Capital,Télécom,Concurrent Indirect,Centre,Mfoundi,Yaoundé V,Yaoundé,Essos,6,11.68
+CONC-0086,Émergence Mokolo Crédit,Transfert d'argent,Concurrent Indirect,Extrême-Nord,Diamaré,Maroua I,maroua,Domayo,7,24.7
+CONC-0087,Émergence Maroua Épargne,Banque commerciale,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,yde,Biyem assi,6,18.99
+CONC-0088,Émergence Nkongsamba Microfinance,Microfinance,Concurrent Direct,Centre,Mfoundi,Yaoundé VI,YDE,Biyem-Assi,1,0.26
+CONC-0089,Crédit Limbe Microfinance,Banque commerciale,Concurrent Direct,Ouest,Bamboutos,Mbouda,mbouda,Centre,2,1.21
+CONC-0090,Développement Batouri Money,Banque commerciale,Concurrent Direct,Extrême-Nord,Diamaré,Maroua II,Maroua,Pitoaré,4,10.03
+CONC-0091,Alliance Buea Capital,Télécom,Concurrent Indirect,Centre,Mfoundi,Yaoundé IV,Yaoundé,Mvan,4,2.85
+CONC-0092,Solidarité Bertoua Capital,Microfinance,Concurrent Direct,Littoral,Wouri,Douala V,Dla,Makepe,4,15.9
+CONC-0093,Émergence Bertoua Épargne,Télécom,Concurrent Indirect,Adamaoua,Vina,Ngaoundéré I,Ngaoundéré,Baladji,4,21.44
+CONC-0094,Tontine Nkongsamba Money,Transfert d'argent,Concurrent Indirect,Sud-Ouest,Fako,Buea,buea,Molyko,5,24.77
+CONC-0095,Réseau Limbe Capital,Microfinance,Concurrent Direct,Sud,Mvila,Ebolowa I,ebolowa,Nko'ovos,3,10.75
+CONC-0096,Crédit Mokolo Mboa,Microfinance,Concurrent Direct,Littoral,Wouri,Douala I,Dla,Akwa,5,23.9
+CONC-0097,Développement Tiko Express,Microfinance,Concurrent Direct,Est,Lom-et-Djérem,Bertoua I,Bertoua,Centre-ville,7,16.2
+CONC-0098,Alliance Yaoundé Express,Microfinance,Concurrent Direct,Littoral,Wouri,Douala II,Dla,New Bell,7,1.76
+CONC-0099,Proximité Bertoua Capital,Microfinance,Concurrent Direct,Littoral,Wouri,Douala II,DLA,New Bell,4,5.2
+CONC-0100,Avenir Bafoussam Crédit,Banque commerciale,Concurrent Direct,Nord,Bénoué,Garoua I,Garoua,Poumpoumré,1,13.26

@@ -1,0 +1,7 @@
+﻿id_canal,nom_canal,type_canal
+1,Agent terrain,Physique
+2,App Mobile,Digital
+3,Guichet,Physique
+4,Mobile Money,Digital
+5,USSD,Digital
+6,Virement,Digital

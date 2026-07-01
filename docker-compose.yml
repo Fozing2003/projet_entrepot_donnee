@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_dw
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: banque_dw
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_dw:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  etl:
+    image: python:3.12-slim
+    container_name: etl_dw
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: >
+      bash -c "pip install pandas psycopg2-binary -q &&
+               python3 etl/etl_dw_bancaire.py --input data_brute --output data_transformee --host postgres &&
+               python3 sql/setup_datamart.py --password postgres --host postgres"
+
+  metabase:
+    image: metabase/metabase
+    container_name: metabase
+    ports:
+      - "3000:3000"
+    depends_on:
+      - etl
+
+volumes:
+  pgdata_dw:

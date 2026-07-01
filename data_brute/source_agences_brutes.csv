@@ -1,0 +1,141 @@
+﻿code_agence,nom_agence,type_agence,date_ouverture,statut_agence,region,departement,arrondissement,ville,quartier,latitude,longitude
+AG00001,Agence Garoua Poumpoumré 001,Relais,2024/06/09,Active,Nord,Bénoué,Garoua I,Garoua,Poumpoumré,9.30496286904186,13.402295229422664
+AG00002,Agence Kribi Mboa Manga 002,Bureau de terrain,2018-07-16,Active,Sud,Océan,Kribi I,kribi,Mboa Manga,2.931565752748334,9.916164374862467
+AG00003,Agence Garoua Djamboutou 003,Principale,2022/04/21,Active,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.329332122435101,13.417693820313694
+AG00004,Agence Tiko Likomba 004,Principale,2024-03-04,Active,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.071590550347988,9.365377388217311
+AG00005,Agence Douala Bonamoussadi 005,Relais,2015-02-21,Fermée,Littoral,Wouri,Douala V,DLA,Bonamousadi,4.094970889883099,9.7378590510202
+AG00006,Agence Ngaoundéré Baladji 006,Bureau de terrain,2025-12-29,Active,Adamaoua,Vina,Ngaoundéré I,Ngaoundéré,Baladji,7.324467174692066,13.585613317775978
+AG00007,Agence Bamenda Nkwen 007,Bureau de terrain,2022-11-22,Active,Nord-Ouest,Mezam,Bamenda II,Bamenda,Nkwen,5.982704538872297,10.165236821790106
+AG00008,Agence Batouri Centre 008,Relais,2022-11-02,Active,Est,Kadey,Batouri,batouri,Centre,4.437065571907423,14.368742856015484
+AG00009,Agence Maroua Domayo 009,Relais,2024/03/18,Active,Extrême-Nord,Diamaré,Maroua I,Maroua,Domayo,10.589796628676659,14.320247914640076
+AG00010,Agence Dschang Foto 010,Relais,2025-06-18,Active,Ouest,Menoua,Dschang,Dschang,Foto,5.4465203462795255,10.044526139904205
+AG00011,Agence Ebolowa Nko'ovos 011,Relais,2019-02-24,Active,Sud,Mvila,Ebolowa I,Ebolowa,Nko'ovos,2.917921441709583,11.149418837598086
+AG00012,Agence Yaoundé Bastos 012,Relais,2019/08/09,Suspendue,Centre,Mfoundi,Yaoundé I,Yaoundé,Bastos,3.8772044522145133,11.509426085148656
+AG00013,Agence Buea Molyko 013,Relais,2024-03-23,Active,Sud-Ouest,Fako,Buea,buea,Molyko,4.149081724501395,9.294980642519711
+AG00014,Agence Yaoundé Biyem-Assi 014,Relais,2022-04-26,Active,Centre,Mfoundi,Yaoundé VI,Yaounde,Biyem assi,3.8283938015774504,11.482840096113543
+AG00015,Agence Tiko Likomba 015,Bureau de terrain,2025-10-23,Active,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.074496051322144,9.371646008765127
+AG00016,Agence Dschang Campus 016,Bureau de terrain,2018-10-13,Fermée,Ouest,Menoua,Dschang,dschang,Campus,5.451443174389217,10.058666522906611
+AG00017,Agence Yaoundé Nkolbisson 017,Relais,2015-03-27,Active,Centre,Mfoundi,Yaoundé VII,Yaoundé,Nkolbisson,3.9074006052484926,11.445471950146606
+AG00018,Agence Dschang Campus 018,Relais,2022/10/06,Active,Ouest,Menoua,Dschang,dschang,Campus,5.449342899141283,10.066795172735644
+AG00019,Agence Garoua Laindé 019,Principale,2017-06-26,Active,Nord,Bénoué,Garoua II,garoua,Laindé,9.322384554201808,13.386598602345758
+AG00020,Agence Buea Molyko 020,Bureau de terrain,2023-08-22,Active,Sud-Ouest,Fako,Buea,buea,Molyko,4.147326603795093,9.301973647490536
+AG00021,Agence Ngaoundéré Sabongari 021,Principale,2021-08-19,Active,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,7.346777292875634,13.598816410310112
+AG00022,Agence Garoua Poumpoumré 022,Principale,2017/04/12,Active,Nord,Bénoué,Garoua I,Garoua,Poumpoumré,9.299053409876022,13.403560623892961
+AG00023,Agence Douala Japoma 023,Principale,2018-08-09,Active,Littoral,Wouri,Douala III,douala,Japoma,4.018644246818526,9.800705866611679
+AG00024,Agence Ebolowa Nko'ovos 024,Relais,2025/10/19,Active,Sud,Mvila,Ebolowa I,ebolowa,Nko'ovos,2.9247179218708292,11.155086025236942
+AG00025,Agence Garoua Laindé 025,Bureau de terrain,2018-09-30,Active,Nord,Bénoué,Garoua II,garoua,Laindé,9.318327404900868,13.399310326097735
+AG00026,Agence Kribi Mboa Manga 026,Relais,2020-12-13,Active,Sud,Océan,Kribi I,kribi,Mboamanga,2.929206432541521,9.899404826377133
+AG00027,Agence Garoua Djamboutou 027,Relais,2018-05-17,Active,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.32688522523771,13.429479770500647
+AG00028,Agence Ngaoundéré Baladji 028,Bureau de terrain,2016-11-03,Fermée,Adamaoua,Vina,Ngaoundéré I,Ngaoundéré,Baladji,7.322856709099331,13.582559936891299
+AG00029,Agence Buea Molyko 029,Relais,2016-08-20,Active,Sud-Ouest,Fako,Buea,buea,Molyko,4.158733183763926,9.293156060520914
+AG00030,Agence Garoua Djamboutou 030,Bureau de terrain,2024-06-18,Suspendue,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.334687032420106,13.422488760447013
+AG00031,Agence Dschang Campus 031,Relais,2024-12-25,Fermée,Ouest,Menoua,Dschang,Dschang,Campus,5.456474025777813,10.075893025181939
+AG00032,Agence Yaoundé Ngoa-Ekellé 032,Relais,2016-07-04,Active,Centre,Mfoundi,Yaoundé III,yde,Ngoa-Ekellé,3.8536855049086407,11.508390487823359
+AG00033,Agence Kribi Mboa Manga 033,Relais,2020-05-30,Active,Sud,Océan,Kribi I,Kribi,Mboamanga,2.929804928225412,9.91552026375147
+AG00034,Agence Yaoundé Ngoa-Ekellé 034,Relais,2021-10-11,Active,Centre,Mfoundi,Yaoundé III,YDE,Ngoa-Ekellé,3.8597368614594725,11.498733641952272
+AG00035,Agence Garoua Djamboutou 035,Relais,2023-01-06,Active,Nord,Bénoué,Garoua III,garoua,Djamboutou,9.338021268648072,13.42122668313348
+AG00036,Agence Mokolo Centre 036,Relais,2018-08-07,Active,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,10.734059574866906,13.80949786506154
+AG00037,Agence Bertoua Nkolbikon 037,Relais,2018-12-15,Active,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.560648612348434,13.697190698324512
+AG00038,Agence Tiko Likomba 038,Bureau de terrain,17/08/2020,Active,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.076461948015295,9.374699666114532
+AG00039,Agence Douala New Bell 039,Bureau de terrain,2015-01-14,Active,Littoral,Wouri,Douala II,Dla,New Bell,4.04367968381443,9.706160919964049
+AG00040,Agence Douala Japoma 040,Relais,2025-09-22,Active,Littoral,Wouri,Douala III,douala,Japoma,4.006119165349771,9.80119088980194
+AG00041,Agence Douala Bonamoussadi 041,Relais,2026-01-12,Active,Littoral,Wouri,Douala V,DLA,Bonamousadi,4.094102938902399,9.737098370860949
+AG00042,Agence Yaoundé Essos 042,Bureau de terrain,2025/03/28,Active,Centre,Mfoundi,Yaoundé V,Yaounde,Essos,3.879859251693033,11.53729047953583
+AG00043,Agence Douala New Bell 043,Bureau de terrain,2021-09-07,Active,Littoral,Wouri,Douala II,Douala,New Bell,4.045957439557641,9.716265652430245
+AG00044,Agence Yaoundé Ngoa-Ekellé 044,Bureau de terrain,2024-05-03,Active,Centre,Mfoundi,Yaoundé III,YDE,Ngoa-Ekellé,3.8557726649554698,11.50757587905752
+AG00045,Agence Mokolo Centre 045,Relais,2025-02-28,Active,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,10.751108509540732,13.805566910864556
+AG00046,Agence Ngaoundéré Baladji 046,Relais,2024-01-13,Active,Adamaoua,Vina,Ngaoundéré I,Ngaoundéré,Baladji,7.315563539795725,13.591614031445998
+AG00047,Agence Dschang Foto 047,Principale,2017/12/22,Active,Ouest,Menoua,Dschang,Dschang,Foto,5.450957045756279,10.05063029696021
+AG00048,Agence Garoua Poumpoumré 048,Relais,2023-10-28,Active,Nord,Bénoué,Garoua I,garoua,Poumpoumré,9.310143736655078,13.406580602881366
+AG00049,Agence Douala New Bell 049,Bureau de terrain,2025-01-12,Active,Littoral,Wouri,Douala II,douala,New Bell,4.0402202162767455,9.719310472076117
+AG00050,Agence Yaoundé Ngoa-Ekellé 050,Bureau de terrain,2024-06-21,Active,Centre,Mfoundi,Yaoundé III,Yaoundé,Ngoa-Ekellé,3.8623613482542334,11.499680474927896
+AG00051,Agence Yaoundé Ngoa-Ekellé 051,Relais,13/09/2024,Active,Centre,Mfoundi,Yaoundé III,Yaoundé,Ngoa-Ekellé,3.8635201164505015,11.49446687992596
+AG00052,Agence Limbe Down Beach 052,Bureau de terrain,2017-07-23,Active,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,4.022993276193161,9.209609461863758
+AG00053,Agence Yaoundé Biyem-Assi 053,Relais,2024-10-09,Active,Centre,Mfoundi,Yaoundé VI,Yaoundé,Biyem assi,3.8312587765832693,11.473371852406666
+AG00054,Agence Douala Bassa 054,Principale,2017-06-21,Active,Littoral,Wouri,Douala III,douala,Bassa,4.054725966066539,9.785896001102916
+AG00055,Agence Bertoua Nkolbikon 055,Relais,2025-06-02,Active,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.567104331505471,13.699395839848687
+AG00056,Agence Douala Bonabéri 056,Relais,2020-05-12,Active,Littoral,Wouri,Douala IV,DLA,Bonabéri,4.082874007568192,9.662056963060811
+AG00057,Agence Bertoua Centre-ville 057,Principale,2019-04-21,Active,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre,4.583696702342941,13.689098506835336
+AG00058,Agence Douala Bonabéri 058,Bureau de terrain,2024/05/15,Active,Littoral,Wouri,Douala IV,Douala,Bonabéri,4.071424592138872,9.6791010842076
+AG00059,Agence Foumban Centre-ville 059,Principale,2020-07-30,Active,Ouest,Noun,Foumban,foumban,Centre Ville,5.732504346265617,10.891438668643803
+AG00060,Agence Yaoundé Bastos 060,Relais,2015-03-13,Active,Centre,Mfoundi,Yaoundé I,YDE,Bastos,3.8935552638428543,11.522294769601531
+AG00061,Agence Mbouda Centre 061,Principale,2016-11-19,Active,Ouest,Bamboutos,Mbouda,mbouda,Centre,5.629653997211082,10.263121440899583
+AG00062,Agence Ngaoundéré Sabongari 062,Bureau de terrain,2019-11-20,Fermée,Adamaoua,Vina,Ngaoundéré II,ngaoundéré,Sabongari,7.346617131539992,13.597581361533628
+AG00063,Agence Bertoua Nkolbikon 063,Relais,2017-11-16,Suspendue,Est,Lom-et-Djérem,Bertoua II,bertoua,Nkolbikon,4.569806621655407,13.702201860344116
+AG00064,Agence Yaoundé Biyem-Assi 064,Relais,2025-01-01,Active,Centre,Mfoundi,Yaoundé VI,YDE,Biyem-Assi,3.84569959067624,11.481090121244762
+AG00065,Agence Batouri Centre 065,Principale,2017-04-29,Active,Est,Kadey,Batouri,batouri,Centre,4.432984607867998,14.357227461988652
+AG00066,Agence Bertoua Nkolbikon 066,Relais,2024-10-17,Active,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.570476391300937,13.7058852795349
+AG00067,Agence Bertoua Nkolbikon 067,Principale,2017-05-29,Active,Est,Lom-et-Djérem,Bertoua II,Bertoua,Nkolbikon,4.570731387034486,13.694608540513062
+AG00068,Agence Douala Makepe 068,Relais,2021/01/17,Active,Littoral,Wouri,Douala V,DLA,Makepe,4.081661180782678,9.743984311591612
+AG00069,Agence Bafoussam Kamkop 069,Bureau de terrain,2023-05-19,Active,Ouest,Mifi,Bafoussam III,Bafoussam,Kamkop,5.457744707956045,10.403607564534955
+AG00070,Agence Bafoussam Kamkop 070,Relais,2024-06-11,Active,Ouest,Mifi,Bafoussam III,BAF,Kamkop,5.455566663038483,10.395218594114086
+AG00071,Agence Ngaoundéré Baladji 071,Principale,2020-04-26,Active,Adamaoua,Vina,Ngaoundéré I,ngaoundéré,Baladji,7.319864209217545,13.587855571623248
+AG00072,Agence Limbe Down Beach 072,Bureau de terrain,2024-03-31,Active,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,4.027990188211412,9.204035324459394
+AG00073,Agence Douala Bonabéri 073,Relais,2022-02-18,Suspendue,Littoral,Wouri,Douala IV,douala,Bonabéri,4.081465816429629,9.674195209509854
+AG00074,Agence Douala Bonabéri 074,Relais,2020-01-05,Active,Littoral,Wouri,Douala IV,Dla,Bonabéri,4.072493068025505,9.663126998980012
+AG00075,Agence Limbe Down Beach 075,Principale,2021-05-10,Suspendue,Sud-Ouest,Fako,Limbe I,limbe,Down Beach,4.0193845439004505,9.223767286903945
+AG00076,Agence Ngaoundéré Baladji 076,Principale,2022-02-02,Active,Adamaoua,Vina,Ngaoundéré I,ngaoundéré,Baladji,7.326310127330198,13.580525423589748
+AG00077,Agence Douala Akwa 077,Bureau de terrain,2019-01-27,Active,Littoral,Wouri,Douala I,Dla,Akwa,4.055154811934317,9.696504645637233
+AG00078,Agence Douala Makepe 078,Principale,2017-12-03,Active,Littoral,Wouri,Douala V,Douala,Makepe,4.097600297369827,9.757474707082679
+AG00079,Agence Dschang Foto 079,Principale,2025-07-12,Active,Ouest,Menoua,Dschang,Dschang,Foto,5.450068445223512,10.053878099773037
+AG00080,Agence Yaoundé Bastos 080,Bureau de terrain,2015-03-28,Active,Centre,Mfoundi,Yaoundé I,YDE,Bastos,3.882893323354837,11.505271842687687
+AG00081,Agence Mbouda Centre 081,Relais,2025/11/30,Active,Ouest,Bamboutos,Mbouda,Mbouda,Centre,5.630393948568232,10.25379380186852
+AG00082,Agence Nkongsamba Centre-ville 082,Principale,2021-08-25,Active,Littoral,Moungo,Nkongsamba I,nkongsamba,Centre-ville,4.948671970326606,9.94657528171488
+AG00083,Agence Mbouda Centre 083,Relais,2020-08-18,Active,Ouest,Bamboutos,Mbouda,mbouda,Centre,5.6246144161402505,10.264408673273442
+AG00084,Agence Buea Molyko 084,Relais,26/11/2023,Suspendue,Sud-Ouest,Fako,Buea,Buea,Molyko,4.149476896394804,9.29968499178728
+AG00085,Agence Yaoundé Mokolo 085,Relais,2021-05-03,Active,Centre,Mfoundi,Yaoundé II,yde,Mokolo,3.8802556668028756,11.50601500656103
+AG00086,Agence Buea Molyko 086,Bureau de terrain,2018-08-02,Active,Sud-Ouest,Fako,Buea,buea,Molyko,4.161021740390896,9.298338475259131
+AG00087,Agence Foumban Centre-ville 087,Relais,2021-10-27,Active,Ouest,Noun,Foumban,foumban,Centre,5.719980878734978,10.893462031857544
+AG00088,Agence Buea Molyko 088,Bureau de terrain,2020-11-23,Active,Sud-Ouest,Fako,Buea,Buea,Molyko,4.148540191948872,9.293752320463922
+AG00089,Agence Garoua Djamboutou 089,Relais,2023-08-03,Active,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.33287550730905,13.414226716649829
+AG00090,Agence Ngaoundéré Sabongari 090,Bureau de terrain,2021-02-24,Active,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,7.328470076203764,13.582217693897265
+AG00091,Agence Douala Bassa 091,Relais,2022-09-15,Active,Littoral,Wouri,Douala III,Douala,Bassa,4.062241802752948,9.778456145295253
+AG00092,Agence Douala Akwa 092,Relais,2025-10-12,Suspendue,Littoral,Wouri,Douala I,Douala,Akwa,4.046981354495028,9.699937377890128
+AG00093,Agence Batouri Centre 093,Relais,2021-10-11,Active,Est,Kadey,Batouri,batouri,Centre,4.431981407403179,14.35700901520259
+AG00094,Agence Bamenda Commercial Avenue 094,Relais,2017-04-26,Active,Nord-Ouest,Mezam,Bamenda I,Bamenda,Commercial Avenue,5.967520341716624,10.151965217418581
+AG00095,Agence Yaoundé Bastos 095,Bureau de terrain,2025-11-25,Fermée,Centre,Mfoundi,Yaoundé I,YDE,Bastos,3.8853983761263797,11.517380499188905
+AG00096,Agence Yaoundé Mvan 096,Principale,2022-07-22,Active,Centre,Mfoundi,Yaoundé IV,yde,Mvan,3.808866383907353,11.537979673420809
+AG00097,Agence Bertoua Centre-ville 097,Relais,2017-11-10,Active,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre-ville,4.567840292025169,13.676470491221856
+AG00098,Agence Ngaoundéré Baladji 098,Bureau de terrain,2020-05-25,Active,Adamaoua,Vina,Ngaoundéré I,ngaoundéré,Baladji,7.325478579940648,13.591489750224438
+AG00099,Agence Douala Bonamoussadi 099,Relais,2019-09-25,Active,Littoral,Wouri,Douala V,Douala,Bonamoussadi,4.091987249583882,9.746305289645184
+AG00100,Agence Maroua Pitoaré 100,Relais,2021-05-06,Active,Extrême-Nord,Diamaré,Maroua II,maroua,Pitoaré,10.604388022766216,14.314021544970217
+AG00101,Agence Bafoussam Tamdja 101,Principale,2017-01-21,Active,Ouest,Mifi,Bafoussam II,Bafoussam,Tamdja,5.491512481771311,10.407226511273977
+AG00102,Agence Yaoundé Ngoa-Ekellé 102,Bureau de terrain,2026-02-16,Active,Centre,Mfoundi,Yaoundé III,YDE,Ngoa-Ekellé,3.869189682090997,11.502246769685195
+AG00103,Agence Bafoussam Tamdja 103,Relais,2017-10-10,Active,Ouest,Mifi,Bafoussam II,BAF,Tamdja,5.497988620046329,10.405699011286464
+AG00104,Agence Batouri Centre 104,Principale,2016/07/13,Active,Est,Kadey,Batouri,Batouri,Centre,4.435616686446464,14.371983395329899
+AG00105,Agence Douala Bonabéri 105,Principale,2018-04-05,Active,Littoral,Wouri,Douala IV,douala,Bonabéri,4.077555238804832,9.678526777814838
+AG00106,Agence Yaoundé Ngoa-Ekellé 106,Bureau de terrain,2020-09-28,Active,Centre,Mfoundi,Yaoundé III,yde,Ngoa-Ekellé,3.859607507978151,11.498036004219621
+AG00107,Agence Limbe Down Beach 107,Relais,2023-06-19,Active,Sud-Ouest,Fako,Limbe I,Limbe,Down Beach,4.02560524291359,9.222208706691738
+AG00108,Agence Bertoua Centre-ville 108,Bureau de terrain,2015-05-26,Active,Est,Lom-et-Djérem,Bertoua I,bertoua,Centre Ville,4.584630883473155,13.688644654173462
+AG00109,Agence Douala Bassa 109,Principale,2015-04-28,Active,Littoral,Wouri,Douala III,douala,Bassa,4.066613460453237,9.782794647856026
+AG00110,Agence Douala Bassa 110,Bureau de terrain,2025-11-04,Active,Littoral,Wouri,Douala III,Dla,Bassa,4.067276610402623,9.779664243199912
+AG00111,Agence Yaoundé Essos 111,Relais,2019-10-12,Active,Centre,Mfoundi,Yaoundé V,YDE,Essos,3.8773498822903596,11.543029733379042
+AG00112,Agence Douala Bassa 112,Relais,2017-03-17,Active,Littoral,Wouri,Douala III,douala,Bassa,4.058627265677099,9.785987932963824
+AG00113,Agence Bamenda Commercial Avenue 113,Bureau de terrain,2024/10/07,Active,Nord-Ouest,Mezam,Bamenda I,Bamenda,Commercial Avenue,5.949527465986081,10.139725701352047
+AG00114,Agence Kribi Mboa Manga 114,Bureau de terrain,2015-10-06,Active,Sud,Océan,Kribi I,kribi,Mboa Manga,2.9291116404324833,9.906251980615323
+AG00115,Agence Bertoua Centre-ville 115,Bureau de terrain,2018-12-07,Active,Est,Lom-et-Djérem,Bertoua I,Bertoua,Centre,4.583647567207915,13.678042480990248
+AG00116,Agence Yaoundé Bastos 116,Relais,2022-03-11,Active,Centre,Mfoundi,Yaoundé I,Yaoundé,Bastos,3.886657027562863,11.510468913223947
+AG00117,Agence Douala New Bell 117,Principale,2026/02/07,Active,Littoral,Wouri,Douala II,douala,New Bell,4.045708707181344,9.713058579872568
+AG00118,Agence Bafoussam Tamdja 118,Bureau de terrain,2024-05-13,Active,Ouest,Mifi,Bafoussam II,bafoussam,Tamdja,5.484304091770125,10.408432135901043
+AG00119,Agence Douala Bonabéri 119,Relais,2019-01-18,Fermée,Littoral,Wouri,Douala IV,DLA,Bonabéri,4.079935701312881,9.67952362515363
+AG00120,Agence Garoua Poumpoumré 120,Principale,2016-08-25,Active,Nord,Bénoué,Garoua I,garoua,Poumpoumré,9.302021037337722,13.397379561510842
+AG00121,Agence Douala Makepe 121,Bureau de terrain,2023-07-27,Active,Littoral,Wouri,Douala V,Douala,Makepe,4.1005006577320025,9.746353163809042
+AG00122,Agence Garoua Laindé 122,Principale,2020/12/09,Active,Nord,Bénoué,Garoua II,Garoua,Laindé,9.326057251131191,13.389714136889571
+AG00123,Agence Garoua Laindé 123,Relais,2019-10-01,Active,Nord,Bénoué,Garoua II,garoua,Laindé,9.31987180379824,13.39877739431987
+AG00124,Agence Mokolo Centre 124,Bureau de terrain,2015-09-11,Suspendue,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,10.74682329916404,13.807150252072553
+AG00125,Agence Douala Bonabéri 125,Bureau de terrain,2022-08-19,Active,Littoral,Wouri,Douala IV,Dla,Bonabéri,4.074244806060437,9.665129958544076
+AG00126,Agence Ngaoundéré Sabongari 126,Relais,2016-11-07,Active,Adamaoua,Vina,Ngaoundéré II,Ngaoundéré,Sabongari,7.34752191702493,13.589438198558222
+AG00127,Agence Nkongsamba Centre-ville 127,Relais,2025-08-01,Active,Littoral,Moungo,Nkongsamba I,nkongsamba,Centre Ville,4.949330099478915,9.942492294728385
+AG00128,Agence Bamenda Nkwen 128,Bureau de terrain,2020-06-20,Active,Nord-Ouest,Mezam,Bamenda II,Bamenda,Nkwen,5.976728194631273,10.173313367543969
+AG00129,Agence Tiko Likomba 129,Bureau de terrain,2016-08-04,Active,Sud-Ouest,Fako,Tiko,Tiko,Likomba,4.069650398047379,9.360497082130813
+AG00130,Agence Yaoundé Mokolo 130,Bureau de terrain,2015-10-10,Active,Centre,Mfoundi,Yaoundé II,Yaounde,Mokolo,3.8680774852594424,11.51306075835437
+AG00131,Agence Yaoundé Essos 131,Relais,2018-10-25,Active,Centre,Mfoundi,Yaoundé V,yde,Essos,3.8742892186725073,11.546545883740054
+AG00132,Agence Bafoussam Marché A 132,Bureau de terrain,2025-09-17,Active,Ouest,Mifi,Bafoussam I,bafoussam,Marché A,5.485153505508766,10.410071338798822
+AG00133,Agence Mokolo Centre 133,Relais,2018-02-16,Active,Extrême-Nord,Mayo-Tsanaga,Mokolo,Mokolo,Centre,10.734648141595606,13.804123502155075
+AG00134,Agence Mokolo Centre 134,Bureau de terrain,2015-06-29,Active,Extrême-Nord,Mayo-Tsanaga,Mokolo,mokolo,Centre,10.735635460582323,13.811216363479312
+AG00135,Agence Douala Bonamoussadi 135,Bureau de terrain,2023-04-14,Suspendue,Littoral,Wouri,Douala V,DLA,Bonamoussadi,4.085009392528598,9.744381986933279
+AG00136,Agence Maroua Domayo 136,Relais,2022-10-21,Active,Extrême-Nord,Diamaré,Maroua I,maroua,Domayo,10.601378554897446,14.309338141109096
+AG00137,Agence Garoua Djamboutou 137,Principale,2025-04-16,Active,Nord,Bénoué,Garoua III,Garoua,Djamboutou,9.330733195467388,13.42511563127263
+AG00138,Agence Ebolowa Nko'ovos 138,Relais,2022/04/13,Active,Sud,Mvila,Ebolowa I,Ebolowa,Nko'ovos,2.922105745845324,11.143790119758515
+AG00139,Agence Yaoundé Nkolbisson 139,Relais,2017-08-25,Active,Centre,Mfoundi,Yaoundé VII,Yaounde,Nkolbisson,3.892645142081592,11.45045216492943
+AG00140,Agence Buea Molyko 140,Relais,2025-01-08,Active,Sud-Ouest,Fako,Buea,buea,Molyko,4.159462969451152,9.292385904285036

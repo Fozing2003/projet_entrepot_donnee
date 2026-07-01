@@ -1,0 +1,9 @@
+﻿id_type_operation,code_operation,libelle_operation,categorie_operation,sens_operation
+1,DEC,Décaissement crédit,Crédit,SC
+2,DEP,Dépôt,Cash,EC
+3,FRM,Frais de tenue de compte,Frais,EC
+4,INT,Intérêts crédit,Intérêts,EC
+5,REMB,Remboursement crédit,Crédit,EC
+6,RET,Retrait,Cash,SC
+7,TRF,Transfert sortant,Transfert,SC
+8,VIR,Virement,Virement,EC
