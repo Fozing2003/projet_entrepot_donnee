@@ -1,0 +1,162 @@
+{
+  "measures": [
+    {
+      "id": "revenue",
+      "cube": "Transactions.totalRevenue",
+      "label": "Revenu",
+      "synonyms": [
+        "revenu",
+        "revenus",
+        "montant",
+        "montants",
+        "chiffre d'affaires",
+        "ca",
+        "volume"
+      ]
+    }
+  ],
+
+  "dimensions": [
+    {
+      "id": "agency",
+      "cube": "Agences.nom",
+      "label": "Agence",
+      "synonyms": [
+        "agence",
+        "agences",
+        "succursale",
+        "succursales"
+      ]
+    },
+    {
+      "id": "year",
+      "cube": "Temps.annee",
+      "label": "Année",
+      "synonyms": [
+        "annee",
+        "année",
+        "ans"
+      ]
+    },
+    {
+      "id": "month",
+      "cube": "Temps.mois",
+      "label": "Mois",
+      "synonyms": [
+        "mois"
+      ]
+    },
+    {
+      "id": "quarter",
+      "cube": "Temps.trimestre",
+      "label": "Trimestre",
+      "synonyms": [
+        "trimestre",
+        "quarter",
+        "t1",
+        "t2",
+        "t3",
+        "t4"
+      ]
+    },
+    {
+      "id": "client",
+      "cube": "Clients.type",
+      "label": "Client",
+      "synonyms": [
+        "client",
+        "clients"
+      ]
+    },
+    {
+      "id": "region",
+      "cube": "Zones.region",
+      "label": "Région",
+      "synonyms": [
+        "region",
+        "région"
+      ]
+    },
+    {
+      "id": "city",
+      "cube": "Zones.ville",
+      "label": "Ville",
+      "synonyms": [
+        "ville",
+        "villes"
+      ]
+    },
+    {
+      "id": "channel",
+      "cube": "Canaux.nom",
+      "label": "Canal",
+      "synonyms": [
+        "canal",
+        "canaux"
+      ]
+    },
+    {
+      "id": "operation",
+      "cube": "Operations.libelle",
+      "label": "Opération",
+      "synonyms": [
+        "operation",
+        "opération",
+        "operations",
+        "opérations"
+      ]
+    }
+  ],
+
+  "operators": [
+    {
+      "id": "top",
+      "order": "desc",
+      "synonyms": [
+        "plus",
+        "meilleur",
+        "meilleurs",
+        "top",
+        "maximum",
+        "max"
+      ]
+    },
+    {
+      "id": "bottom",
+      "order": "asc",
+      "synonyms": [
+        "moins",
+        "minimum",
+        "min",
+        "pires"
+      ]
+    }
+  ],
+
+  "stopWords": [
+    "je",
+    "veux",
+    "donne",
+    "donnez",
+    "moi",
+    "les",
+    "des",
+    "du",
+    "de",
+    "la",
+    "le",
+    "avec",
+    "pour",
+    "en",
+    "sur",
+    "par",
+    "qui",
+    "quel",
+    "quelle",
+    "quels",
+    "quelles",
+    "est",
+    "sont",
+    "avoir"
+  ]
+}
