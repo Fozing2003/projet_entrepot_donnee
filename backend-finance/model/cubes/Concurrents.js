@@ -1,5 +1,5 @@
 cube(`Concurrents`, {
-  sql: `SELECT * FROM public.dim_institution_concurrente`,
+  sql: `SELECT * FROM warehouse.dim_institution_concurrente`,
 
   title: `Concurrents`,
 

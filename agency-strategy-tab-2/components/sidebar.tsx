@@ -1,9 +1,9 @@
 "use client"
 
-import { LayoutDashboard, CalendarRange, MapPinned, Building2, Network, Target } from "lucide-react"
+import { LayoutDashboard, CalendarRange, MapPinned, Building2, Network, Target, Bot } from "lucide-react"
 import { cn } from "@/lib/utils"
 
-export type TabId = "overview" | "temporal" | "geographic" | "agency" | "channels" | "strategy"
+export type TabId = "overview" | "temporal" | "geographic" | "agency" | "channels" | "strategy" | "assistant"
 
 const navItems: { id: TabId; label: string; icon: typeof LayoutDashboard }[] = [
   { id: "overview", label: "Synthèse", icon: LayoutDashboard },
@@ -12,6 +12,7 @@ const navItems: { id: TabId; label: string; icon: typeof LayoutDashboard }[] = [
   { id: "agency", label: "Agences", icon: Building2 },
   { id: "channels", label: "Canaux", icon: Network },
   { id: "strategy", label: "Implantation", icon: Target },
+  { id: "assistant", label: "Assistant", icon: Bot },
 ]
 
 export function Sidebar({

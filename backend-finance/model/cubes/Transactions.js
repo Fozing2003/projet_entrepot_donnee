@@ -1,7 +1,7 @@
 cube(`Transactions`, {
   sql: `
     SELECT *
-    FROM public.fact_transactions
+    FROM warehouse.Fact_Transactions
   `,
 
   title: `Transactions`,

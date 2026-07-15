@@ -11,7 +11,35 @@
         "montants",
         "chiffre d'affaires",
         "ca",
-        "volume"
+        "volume",
+        "flux",
+        "activité",
+        "activite"
+      ]
+    },
+    {
+      "id": "transactions",
+      "cube": "Transactions.transactionCount",
+      "label": "Nombre de transactions",
+      "synonyms": [
+        "transaction",
+        "transactions",
+        "nombre",
+        "flux",
+        "activité",
+        "activite",
+        "frequence",
+        "fréquence"
+      ]
+    },
+    {
+      "id": "fees",
+      "cube": "Transactions.totalFees",
+      "label": "Frais",
+      "synonyms": [
+        "frais",
+        "commission",
+        "commissions"
       ]
     }
   ],
@@ -78,12 +106,34 @@
       ]
     },
     {
+      "id": "department",
+      "cube": "Zones.departement",
+      "label": "Département",
+      "synonyms": [
+        "departement",
+        "département"
+      ]
+    },
+    {
       "id": "city",
       "cube": "Zones.ville",
       "label": "Ville",
       "synonyms": [
         "ville",
         "villes"
+      ]
+    },
+    {
+      "id": "district",
+      "cube": "Zones.quartier",
+      "label": "Quartier",
+      "synonyms": [
+        "quartier",
+        "quartiers",
+        "zone",
+        "zones",
+        "localite",
+        "localité"
       ]
     },
     {

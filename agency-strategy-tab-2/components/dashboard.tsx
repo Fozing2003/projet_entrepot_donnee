@@ -9,6 +9,7 @@ import { GeographicView } from "@/components/views/geographic-view"
 import { AgencyView } from "@/components/views/agency-view"
 import { ChannelsView } from "@/components/views/channels-view"
 import { AgencyStrategy } from "@/components/agency-strategy"
+import { AiQueryPanel } from "@/components/ai-query-panel"
 
 const titles: Record<TabId, string> = {
   overview: "Synthèse de l'entrepôt",
@@ -17,6 +18,7 @@ const titles: Record<TabId, string> = {
   agency: "Analyse des agences",
   channels: "Canaux, comptes & concurrence",
   strategy: "Stratégie d'implantation",
+  assistant: "Assistant analytique",
 }
 
 export function Dashboard() {
@@ -34,6 +36,7 @@ export function Dashboard() {
           {tab === "agency" && <AgencyView />}
           {tab === "channels" && <ChannelsView />}
           {tab === "strategy" && <AgencyStrategy />}
+          {tab === "assistant" && <AiQueryPanel />}
         </main>
       </div>
     </div>

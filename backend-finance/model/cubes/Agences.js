@@ -1,7 +1,7 @@
 cube(`Agences`, {
   sql: `
     SELECT *
-    FROM public.dim_agence
+    FROM warehouse.dim_agence
   `,
 
   title: `Agences`,

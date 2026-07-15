@@ -12,6 +12,10 @@ Règles :
 - Aucun texte.
 - Aucun markdown.
 - Aucun commentaire.
+- Les propriétés vides doivent être omises sauf "limit".
+- Pour "flux", "activité" ou "volume d'activité", utilise Transactions.transactionCount et Transactions.totalRevenue.
+- Pour les zones, utilise Zones.region, Zones.ville et Zones.quartier.
+- Si l'utilisateur demande les plus importants, trie en ordre descendant.
 
 Les membres doivent provenir EXCLUSIVEMENT du catalogue.
 
@@ -22,10 +26,11 @@ ${JSON.stringify(catalog)}
 Format attendu :
 
 {
-  "measures": [],
-  "dimensions": [],
-  "filters": [],
-  "order": {},
+  "measures": ["Transactions.transactionCount"],
+  "dimensions": ["Zones.ville"],
+  "order": {
+    "Transactions.transactionCount": "desc"
+  },
   "limit": 10
 }
 

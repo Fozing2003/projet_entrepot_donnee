@@ -1,13 +1,6 @@
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
-import { Inter, Roboto_Mono } from 'next/font/google'
 import './globals.css'
-
-const inter = Inter({ variable: '--font-geist-sans', subsets: ['latin'] })
-const robotoMono = Roboto_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-})
 
 export const metadata: Metadata = {
   title: 'Atlas — Entrepôt de données financières',
@@ -46,10 +39,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html
-      lang="fr"
-      className={`${inter.variable} ${robotoMono.variable} bg-background`}
-    >
+    <html lang="fr" className="bg-background">
       <body className="font-sans antialiased">
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}

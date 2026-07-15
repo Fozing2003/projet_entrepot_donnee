@@ -11,22 +11,30 @@ export async function query(req: Request, res: Response) {
 
         const { question } = req.body;
 
+        if (typeof question !== "string" || !question.trim()) {
+            return res.status(400).json({
+                error: "La question est obligatoire"
+            });
+        }
+
         const cubeQuery = await translator.translate(question);
 
         const data = await cube.execute(cubeQuery);
 
         res.json({
-            question,
+            question: question.trim(),
             cubeQuery,
             data
         });
 
     } catch (error) {
 
-        console.error(error);
+        const message = error instanceof Error ? error.message : "Unable to process query";
+
+        console.error(message);
 
         res.status(500).json({
-            error: "Unable to process query"
+            error: message
         });
 
     }

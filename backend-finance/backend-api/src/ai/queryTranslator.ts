@@ -19,10 +19,37 @@ export class QueryTranslator {
 
     }
 
+    private fallback(question: string) {
+        const normalized = question
+            .toLowerCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "");
+
+        if (normalized.includes("zone") || normalized.includes("ville") || normalized.includes("quartier")) {
+            return {
+                measures: ["Transactions.transactionCount", "Transactions.totalRevenue"],
+                dimensions: ["Zones.region", "Zones.ville", "Zones.quartier"],
+                order: {
+                    "Transactions.transactionCount": "desc"
+                },
+                limit: 10
+            };
+        }
+
+        return {
+            measures: ["Transactions.transactionCount", "Transactions.totalRevenue"],
+            dimensions: ["Agences.nom"],
+            order: {
+                "Transactions.totalRevenue": "desc"
+            },
+            limit: 10
+        };
+    }
+
     async translate(question: string) {
 
         const prompt = buildPrompt(
-            question,
+            question.trim(),
             this.catalog.getCatalog()
         );
 
@@ -30,8 +57,11 @@ export class QueryTranslator {
 
         const cleaned = this.clean(json);
 
-
-        return JSON.parse(cleaned);
+        try {
+            return JSON.parse(cleaned);
+        } catch {
+            return this.fallback(question);
+        }
 
     }
 

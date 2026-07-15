@@ -1,5 +1,5 @@
 cube(`Zones`, {
-  sql: `SELECT * FROM public.dim_zone_geographique`,
+  sql: `SELECT * FROM warehouse.dim_zone_geographique`,
 
   title: `Zones`,
 

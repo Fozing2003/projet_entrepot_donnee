@@ -7,9 +7,6 @@ const client = new Mistral({
     apiKey: process.env.MISTRAL_API_KEY
 });
 
-console.log("API KEY =", process.env.MISTRAL_API_KEY);
-console.log("MODEL =", process.env.MISTRAL_MODEL);
-
 export class MistralService {
     chat(arg0: string) {
         return client.chat.complete({
@@ -62,7 +59,7 @@ export class MistralService {
 
         const response = await client.chat.complete({
 
-            model: "mistral-small-latest",
+            model: process.env.MISTRAL_MODEL || "mistral-small-latest",
 
             temperature: 0,
 

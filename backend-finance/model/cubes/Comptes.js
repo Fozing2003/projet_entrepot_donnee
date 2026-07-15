@@ -1,5 +1,5 @@
 cube(`Comptes`, {
-  sql: `SELECT * FROM public.dim_compte`,
+  sql: `SELECT * FROM warehouse.dim_compte`,
 
   title: `Comptes`,
 
