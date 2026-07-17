@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import queryRoutes from "./routes/query.routes";
+import dashboardRoutes from "./routes/dashboard.routes";
 
 const app = express();
 
@@ -15,5 +16,6 @@ app.get("/health", (_, res) => {
 });
 
 app.use("/api/query", queryRoutes);
+app.use("/api/dashboard", dashboardRoutes);
 
 export default app;

@@ -83,6 +83,21 @@ cube(`Transactions`, {
     averageFees: {
       sql: `frais_operation`,
       type: `avg`
+    },
+
+    uniqueCustomers: {
+      sql: `id_client`,
+      type: `countDistinct`
+    },
+
+    branchCount: {
+      sql: `id_agence`,
+      type: `countDistinct`
+    },
+
+    competitorCount: {
+      sql: `id_concurrent`,
+      type: `countDistinct`
     }
   },
 

@@ -1,8 +1,8 @@
-import { recentTransactions } from "@/lib/mock-data"
+import type { TransactionRow } from "@/lib/dashboard-types"
 import { formatAmount } from "@/lib/format"
 import { cn } from "@/lib/utils"
 
-export function DataTable() {
+export function DataTable({ rows }: { rows: TransactionRow[] }) {
   return (
     <section className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
       <div className="flex items-center justify-between border-b border-border px-5 py-4">
@@ -10,7 +10,7 @@ export function DataTable() {
           <h2 className="text-sm font-semibold text-foreground">Transactions récentes</h2>
           <p className="text-xs text-muted-foreground">Extrait de Fact_Transactions</p>
         </div>
-        <span className="text-xs text-muted-foreground">{recentTransactions.length} écritures</span>
+        <span className="text-xs text-muted-foreground">{rows.length} écritures</span>
       </div>
 
       <div className="overflow-x-auto">
@@ -25,7 +25,7 @@ export function DataTable() {
             </tr>
           </thead>
           <tbody>
-            {recentTransactions.map((row, i) => {
+            {rows.map((row, i) => {
               const isNegative = row.montant < 0
               return (
                 <tr
@@ -51,6 +51,13 @@ export function DataTable() {
                 </tr>
               )
             })}
+            {rows.length === 0 && (
+              <tr>
+                <td colSpan={5} className="px-5 py-8 text-center text-muted-foreground">
+                  Aucune transaction disponible.
+                </td>
+              </tr>
+            )}
           </tbody>
         </table>
       </div>

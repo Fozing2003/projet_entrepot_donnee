@@ -6,7 +6,7 @@ export type AskResponse = {
   data: CubeRow[]
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_FINANCE_API_URL || "http://localhost:5000"
+export const API_BASE_URL = process.env.NEXT_PUBLIC_FINANCE_API_URL || "http://localhost:5000"
 
 export async function askFinanceQuestion(question: string): Promise<AskResponse> {
   const response = await fetch(`${API_BASE_URL}/api/query`, {

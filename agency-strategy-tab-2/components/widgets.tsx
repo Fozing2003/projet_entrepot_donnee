@@ -16,7 +16,7 @@ import {
   YAxis,
 } from "recharts"
 import { ArrowUpRight, ArrowDownRight } from "lucide-react"
-import type { Kpi, CategoryRow, ZoneRow } from "@/lib/mock-data"
+import type { Kpi, CategoryRow, ZoneRow } from "@/lib/dashboard-types"
 import { formatMilliards, formatNumber } from "@/lib/format"
 import { cn } from "@/lib/utils"
 

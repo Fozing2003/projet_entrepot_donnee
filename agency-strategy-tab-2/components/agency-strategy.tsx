@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import {
   Target,
   Loader2,
@@ -14,7 +14,8 @@ import {
   MinusCircle,
   XCircle,
 } from "lucide-react"
-import { mockAgencyAnalysis, type AgencyAnalysis, type DecisionCriterion } from "@/lib/mock-data"
+import { getStrategyData } from "@/lib/dashboard-api"
+import type { AgencyAnalysis, DecisionCriterion } from "@/lib/dashboard-types"
 import { formatCompactFCFA, formatNumber } from "@/lib/format"
 import { cn } from "@/lib/utils"
 
@@ -84,18 +85,23 @@ const criterionStyle: Record<DecisionCriterion["status"], { icon: typeof CheckCi
 }
 
 export function AgencyStrategy() {
-  // États initial / chargement / résultat — remplacer le mock par un appel à l'entrepôt (vues SQL).
   const [status, setStatus] = useState<Status>("idle")
   const [data, setData] = useState<AgencyAnalysis | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
-  const runAnalysis = () => {
+  const runAnalysis = async () => {
     setStatus("loading")
+    setError(null)
     setData(null)
-    // Appel simulé — remplacer par un fetch vers l'API analytique (croisement des vues décisionnelles).
-    setTimeout(() => {
-      setData(mockAgencyAnalysis)
+
+    try {
+      const strategyData = await getStrategyData()
+      setData(strategyData)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Erreur lors de l'analyse")
+    } finally {
       setStatus("idle")
-    }, 2000)
+    }
   }
 
   const badge = data ? getBadge(data.potentialScore) : null
