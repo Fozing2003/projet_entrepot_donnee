@@ -146,6 +146,20 @@
       ]
     },
     {
+      "id": "channelType",
+      "cube": "Canaux.type",
+      "label": "Type de canal",
+      "synonyms": [
+        "type de canal",
+        "digital",
+        "en ligne",
+        "internet",
+        "mobile",
+        "web",
+        "physique"
+      ]
+    },
+    {
       "id": "operation",
       "cube": "Operations.libelle",
       "label": "Opération",

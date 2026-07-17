@@ -67,7 +67,7 @@ export class DashboardService {
 
     const canalRows = await this.execute({
       measures: ["Transactions.totalRevenue"],
-      dimensions: ["Canaux.type_canal"],
+      dimensions: ["Canaux.type"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 100,
     })
@@ -78,8 +78,8 @@ export class DashboardService {
         "Transactions.transactionId",
         "Temps.date",
         "Agences.nom",
-        "Operations.libelle_operation",
-        "Canaux.nom_canal",
+        "Operations.libelle",
+        "Canaux.nom",
       ],
       order: { "Temps.date": "desc" },
       limit: 10,
@@ -100,12 +100,12 @@ export class DashboardService {
         frais: toBillions(row["Transactions.totalFees"]),
         transactions: toNumber(row["Transactions.transactionCount"]),
       })),
-      canalSplit: makePercentSlice(canalRows, "Canaux.type_canal"),
+      canalSplit: makePercentSlice(canalRows, "Canaux.type"),
       recentTransactions: recentRows.map((row) => ({
         date: String(row["Temps.date"] ?? ""),
         agence: String(row["Agences.nom"] ?? ""),
-        operation: String(row["Operations.libelle_operation"] ?? ""),
-        canal: String(row["Canaux.nom_canal"] ?? ""),
+        operation: String(row["Operations.libelle"] ?? ""),
+        canal: String(row["Canaux.nom"] ?? ""),
         montant: toNumber(row["Transactions.totalRevenue"]),
       })),
     }
@@ -225,62 +225,62 @@ export class DashboardService {
   async getChannelsData() {
     const canalRows = await this.execute({
       measures: ["Transactions.totalRevenue", "Transactions.transactionCount"],
-      dimensions: ["Canaux.nom_canal", "Canaux.type_canal"],
+      dimensions: ["Canaux.nom", "Canaux.type"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 20,
     })
 
     const canalSplitRows = await this.execute({
       measures: ["Transactions.totalRevenue"],
-      dimensions: ["Canaux.type_canal"],
+      dimensions: ["Canaux.type"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 20,
     })
 
     const operationRows = await this.execute({
       measures: ["Transactions.totalRevenue", "Transactions.transactionCount"],
-      dimensions: ["Operations.libelle_operation", "Operations.categorie_operation"],
+      dimensions: ["Operations.libelle", "Operations.categorie"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 20,
     })
 
     const compteRows = await this.execute({
       measures: ["Transactions.totalRevenue", "Transactions.transactionCount"],
-      dimensions: ["Comptes.type_compte", "Comptes.produit_bancaire"],
+      dimensions: ["Comptes.type", "Comptes.produit"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 20,
     })
 
     const concurrentRows = await this.execute({
       measures: ["Transactions.totalRevenue", "Transactions.transactionCount"],
-      dimensions: ["Concurrents.nom_institution", "Concurrents.type_institution"],
+      dimensions: ["Concurrents.nom", "Concurrents.type"],
       order: { "Transactions.totalRevenue": "desc" },
       limit: 20,
     })
 
     return {
       transactionsByCanal: canalRows.map((row) => ({
-        libelle: String(row["Canaux.nom_canal"] ?? ""),
-        detail: String(row["Canaux.type_canal"] ?? ""),
+        libelle: String(row["Canaux.nom"] ?? ""),
+        detail: String(row["Canaux.type"] ?? ""),
         montant: toBillions(row["Transactions.totalRevenue"]),
         transactions: toNumber(row["Transactions.transactionCount"]),
       })),
-      canalSplit: makePercentSlice(canalSplitRows, "Canaux.type_canal"),
+      canalSplit: makePercentSlice(canalSplitRows, "Canaux.type"),
       transactionsByOperation: operationRows.map((row) => ({
-        libelle: String(row["Operations.libelle_operation"] ?? ""),
-        detail: String(row["Operations.categorie_operation"] ?? ""),
+        libelle: String(row["Operations.libelle"] ?? ""),
+        detail: String(row["Operations.categorie"] ?? ""),
         montant: toBillions(row["Transactions.totalRevenue"]),
         transactions: toNumber(row["Transactions.transactionCount"]),
       })),
       transactionsByCompte: compteRows.map((row) => ({
-        libelle: String(row["Comptes.type_compte"] ?? ""),
-        detail: String(row["Comptes.produit_bancaire"] ?? ""),
+        libelle: String(row["Comptes.type"] ?? ""),
+        detail: String(row["Comptes.produit"] ?? ""),
         montant: toBillions(row["Transactions.totalRevenue"]),
         transactions: toNumber(row["Transactions.transactionCount"]),
       })),
       institutionsConcurrentes: concurrentRows.map((row) => ({
-        libelle: String(row["Concurrents.nom_institution"] ?? ""),
-        detail: String(row["Concurrents.type_institution"] ?? ""),
+        libelle: String(row["Concurrents.nom"] ?? ""),
+        detail: String(row["Concurrents.type"] ?? ""),
         montant: toBillions(row["Transactions.totalRevenue"]),
         transactions: toNumber(row["Transactions.transactionCount"]),
       })),
@@ -325,7 +325,7 @@ export class DashboardService {
 
     const channelRows = await this.execute({
       measures: ["Transactions.totalRevenue"],
-      dimensions: ["Canaux.type_canal"],
+      dimensions: ["Canaux.type"],
       filters: [
         {
           member: "Zones.quartier",
@@ -343,7 +343,7 @@ export class DashboardService {
 
     const totalZoneRevenue = channelRows.reduce((sum, row) => sum + toNumber(row["Transactions.totalRevenue"]), 0)
     const digitalRevenue = channelRows
-      .filter((row) => String(row["Canaux.type_canal"] ?? "").toLowerCase().includes("digital"))
+      .filter((row) => String(row["Canaux.type"] ?? "").toLowerCase().includes("digital"))
       .reduce((sum, row) => sum + toNumber(row["Transactions.totalRevenue"]), 0)
 
     const digitalAdoptionRate = totalZoneRevenue > 0 ? Number(((digitalRevenue / totalZoneRevenue) * 100).toFixed(1)) : 0

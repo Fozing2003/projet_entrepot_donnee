@@ -16,6 +16,9 @@ Règles :
 - Pour "flux", "activité" ou "volume d'activité", utilise Transactions.transactionCount et Transactions.totalRevenue.
 - Pour les zones, utilise Zones.region, Zones.ville et Zones.quartier.
 - Si l'utilisateur demande les plus importants, trie en ordre descendant.
+- Pour un canal ou un type de canal, utilise Canaux.nom ou Canaux.type.
+- Pour une requête en ligne / numérique, ajoute un filtre sur Canaux.type avec une valeur comme "digital" ou "en ligne".
+- Les filtres doivent être un tableau d'objets avec les propriétés "member", "operator" et "values".
 
 Les membres doivent provenir EXCLUSIVEMENT du catalogue.
 
